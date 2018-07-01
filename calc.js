@@ -283,4 +283,5 @@ function matbaj() {
 //        z *= x;
 //        console.log(z);
 //    }
-//}
+//}     
+console.log("ok");
